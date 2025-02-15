@@ -1,2 +1,2 @@
 print('Hello world')
-print('New line')
+print('Yeah, very not original')
